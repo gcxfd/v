@@ -1,4 +1,4 @@
-#!/usr/bin/env v run
+#!/usr/bin/env -S v run
 
 module main
 
